@@ -1,2 +1,3 @@
 merhaba Git
 Bu satırı GitHub sitesinden ekledim
+Bu satırı sadece yeni dalda yazdım, ana dalda görünmemeli.
